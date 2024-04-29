@@ -4,7 +4,8 @@
 
 <h2>Demo</h2>
 
-<p>You can view a live demo of the application <a href="<link to your deployed vercel app>">here</a>.</p>
+<p>You can view a live demo of the application <a href="https://counter-git-main-its-jhaanuj-21s-projects.vercel.app/">here</a>.</p>
+<img src="app_image.jpg" alt="Counter App Screenshot" width="500">
 
 <h2>Features</h2>
 <ul>
@@ -25,11 +26,8 @@
 <h2>Usage</h2>
 <p>Simply click the buttons labeled "+" to increment, "-" to decrement, and "↺" to reset the counter value.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
 <h2>Author</h2>
-<p><a href="<link to your GitHub profile>">Anuj Kumar Jha</a></p>
+<p><a href="https://github.com/its-jhaanuj-21">Anuj Kumar Jha</a></p>
 
  <h2>Acknowledgments</h2>
 <ul>
