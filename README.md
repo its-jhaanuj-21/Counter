@@ -5,7 +5,7 @@
 <h2>Demo</h2>
 
 <p>You can view a live demo of the application <a href="https://counter-git-main-its-jhaanuj-21s-projects.vercel.app/">here</a>.</p>
-<img src="app_image.jpg" alt="Counter App Screenshot" width="500">
+<img src="Screenshot 2024-04-30 042806.png" alt="Counter App Screenshot" width="500">
 
 <h2>Features</h2>
 <ul>
